@@ -1,2 +1,2 @@
 # Spammer-Mod
-Spammer mod for Minecraft
+Spammer mod for Minecraft with hwid protection
